@@ -135,6 +135,7 @@ return array(
     'Drush\\Internal\\' => array($vendorDir . '/drush/drush/src/internal-forks'),
     'Drush\\Commands\\radix\\' => array($baseDir . '/web/themes/contrib/radix/Commands/radix'),
     'Drush\\' => array($vendorDir . '/drush/drush/src'),
+    'Drupal\\swagger_ui_formatter\\' => array($baseDir . '/web/modules/contrib/swagger_ui_formatter/src'),
     'Drupal\\Driver\\' => array($baseDir . '/web/drivers/lib/Drupal/Driver'),
     'Drupal\\Core\\' => array($baseDir . '/web/core/lib/Drupal/Core'),
     'Drupal\\Composer\\Plugin\\Scaffold\\' => array($vendorDir . '/drupal/core-composer-scaffold'),

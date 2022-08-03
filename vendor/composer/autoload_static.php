@@ -234,6 +234,7 @@ class ComposerStaticInitdd471b52e27c6d197a283547bfa8ff43
             'Drush\\Internal\\' => 15,
             'Drush\\Commands\\radix\\' => 21,
             'Drush\\' => 6,
+            'Drupal\\swagger_ui_formatter\\' => 28,
             'Drupal\\Driver\\' => 14,
             'Drupal\\Core\\' => 12,
             'Drupal\\Composer\\Plugin\\Scaffold\\' => 32,
@@ -804,6 +805,10 @@ class ComposerStaticInitdd471b52e27c6d197a283547bfa8ff43
         'Drush\\' => 
         array (
             0 => __DIR__ . '/..' . '/drush/drush/src',
+        ),
+        'Drupal\\swagger_ui_formatter\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/web/modules/contrib/swagger_ui_formatter/src',
         ),
         'Drupal\\Driver\\' => 
         array (

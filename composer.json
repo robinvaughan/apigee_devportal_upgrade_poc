@@ -58,6 +58,9 @@
     "drupal/webform": "^6.0",
     "drupal/clientside_validation": "^3.0@RC",
     "drupal/token_filter": "^1.2",
+    "drupal/swagger_ui_formatter": "^3.2",
+    "drupal/userprotect": "^1.1",
+    "drupal/adobe_launch": "^1.0@RC",
     "furf/jquery-ui-touch-punch": "dev-master"
   },
   "require-dev": {

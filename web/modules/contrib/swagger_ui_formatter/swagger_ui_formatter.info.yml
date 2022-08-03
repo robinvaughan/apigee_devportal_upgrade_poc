@@ -1,0 +1,14 @@
+name: Swagger UI Field Formatter
+description: Provides a Swagger UI field formatter for File and Link fields.
+
+dependencies:
+  - drupal:file
+
+type: module
+core_version_requirement: ~8.9.1 || ^9
+php: "7.2"
+
+# Information added by Drupal.org packaging script on 2021-08-13
+version: '8.x-3.3'
+project: 'swagger_ui_formatter'
+datestamp: 1628863934
