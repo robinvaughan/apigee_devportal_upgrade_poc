@@ -1,0 +1,13 @@
+name: Entity Legal
+description: Create versionable, trackable legal forms for site users.
+type: module
+core_version_requirement: ^8 || ^9
+configure: entity.entity_legal_document.collection
+dependencies:
+  - drupal:text
+  - token:token
+
+# Information added by Drupal.org packaging script on 2021-12-16
+version: '3.0.0-beta3'
+project: 'entity_legal'
+datestamp: 1639671453
